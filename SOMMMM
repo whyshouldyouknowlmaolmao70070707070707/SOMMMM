@@ -242,7 +242,7 @@ function funcs:reinject()
 		GL.SelfDestruct()
 		repeat task.wait() until not shared.VapeExecuted and not shared.VapeFullyLoaded and not shared.GuiLibrary
 		task.wait(0.5)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/whyshouldyouknowlmaolmao70070707070707/................................../main/.......", true))()
 	end
 end
 function funcs:ban()
